@@ -16,7 +16,7 @@
     },
     "private": true,
     "dependencies": {
-        "@devexpress/dx-react-chart": "^2.7.4",
+        "@devexpress/dx-react-chart": "^2.7.6",
         "@devexpress/dx-react-chart-material-ui": "^2.7.4",
         "@devexpress/dx-react-core": "^2.7.4",
         "@elastic/react-search-ui": "^1.6.0",
