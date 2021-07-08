@@ -21,7 +21,7 @@
         "@devexpress/dx-react-core": "^2.7.4",
         "@elastic/react-search-ui": "^1.6.0",
         "@elastic/search-ui-app-search-connector": "^1.6.0",
-        "@material-ui/core": "^4.11.4",
+        "@material-ui/core": "^4.12.1",
         "@material-ui/icons": "^4.11.2",
         "@material-ui/lab": "^4.0.0-alpha.58",
         "history": "^5.0.0",
